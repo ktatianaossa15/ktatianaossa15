@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kelly Tatiana Ossa
+- 👀 I’m interested in education and technology
+- 🌱 I’m currently learning programming and software development
